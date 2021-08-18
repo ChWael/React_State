@@ -1,0 +1,15 @@
+*{
+  background-color: black;
+  color: #fff;
+  background-image: url(./star.jpg);
+}
+
+.App {
+  text-align: center;
+
+}
+
+.img{
+  width: 400px;
+  height: 400px;
+}
